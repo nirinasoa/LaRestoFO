@@ -1,0 +1,9 @@
+Mini-Document d'Installation			
+			
+	-Installer le serveur Uwamp 
+	-Démarrer le serveur
+	-Entrer vos bases dans mysql 
+	-Mettre le projet dans www
+	-Cliquez sur www site pour voir le site et y ouvrir le dossier
+
+ 
